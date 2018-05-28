@@ -29,12 +29,18 @@ step("Almost all words have vowels <table>", function(table) {
   });
 });
 
+step('generate implementation file', function(){
+
+  for(var i=0;i<100;i ++){
+    console.log('step("step '+i+'", function() {\nassert.equal(1, 1);\n});'  )
+  }  
+})
+
 // ---------------
 // Execution Hooks
 // ---------------
 
 beforeScenario(function () {
-  throw new Error('one')
   assert.equal(vowels.join(""), "aeiou");
 });
 

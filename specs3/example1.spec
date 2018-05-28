@@ -15,7 +15,7 @@ To execute this specification, run
 tags: single word
 
 * The word "gauge" has "3" vowels.
-
+* generate implementation file
 
 ## Vowel counts in multiple word
 
