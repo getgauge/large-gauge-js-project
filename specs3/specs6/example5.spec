@@ -9,12 +9,14 @@ To execute this specification, run
 
 
 * Vowels in English language are "aeiou".
+* something here 4
 
 ## Vowel counts in single word
 
 tags: single word
 
 * The word "gauge" has "3" vowels.
+* something here 4
 
 
 ## Vowel counts in multiple word
@@ -31,3 +33,4 @@ Here's a step that takes a table
      |Snap  |1          |
      |GoCD  |1          |
      |Rhythm|0          |
+* something here 4
